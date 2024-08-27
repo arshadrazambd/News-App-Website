@@ -12,4 +12,6 @@ CSS: Styling the app and ensuring a responsive design.
 JavaScript: Handling dynamic content and API integration.
 Rapid API: Fetching news data from various sources.
 
+![image](https://github.com/user-attachments/assets/025840f1-38c4-4ff3-9255-8768be001dfd)
+
 
